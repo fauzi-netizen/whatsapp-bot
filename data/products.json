@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "code": "P001",
+      "name": "Paket Premium 1 Bulan",
+      "price": 50000,
+      "stock": 10
+    },
+    {
+      "code": "P002",
+      "name": "Paket Premium 3 Bulan",
+      "price": 120000,
+      "stock": 5
+    },
+    {
+      "code": "P003",
+      "name": "Paket VIP 1 Bulan",
+      "price": 100000,
+      "stock": 8
+    }
+  ],
+  "orders": []
+}
